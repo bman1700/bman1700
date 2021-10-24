@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bman1700
 - 👀 I’m interested in ... Quantitative Finance
 - 🌱 I’m currently learning ... Algorithmic Trading
-- 💞️ I’m looking to collaborate on ... Quant Finance projects
+- 💞️ I’m looking to collaborate on ... Quant Finance Projects
 - 📫 How to reach me ...
 
 <!---
