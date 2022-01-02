@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bman1700
 - 👀 I’m interested in ... Quantitative Finance
-- 🌱 I’m currently learning ... Algorithmic Trading
+- 🌱 I’m currently learning ... Python Financial Mathematics
 - 💞️ I’m looking to collaborate on ... Quant Finance Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
 
 <!---
 bman1700/bman1700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
