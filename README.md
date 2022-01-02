@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bman1700
 - 👀 I’m interested in ... Quantitative Finance
-- 🌱 I’m currently learning ... Python Financial Mathematics
+- 🌱 I’m currently learning ... Python and Financial Mathematics
 - 💞️ I’m looking to collaborate on ... Quant Finance Projects
 - 📫 How to reach me ... 
 
